@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS development.
 - 🌱 I’m currently learning UIKit, SwiftUI, advanced Swift.
 - 💞️ I’m looking to collaborate on complex iOS application.
-- 📫 How to reach me: swiftgaidaalex@gmail.com,  http://t.me/gaidaasd.
+- 📫 How to reach me: swiftgaidaalex@gmail.com, ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) (http://t.me/gaidaasd).
 - ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
