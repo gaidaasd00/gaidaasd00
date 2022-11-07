@@ -12,7 +12,8 @@
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaidaasd00)](https://github.com/anuraghazra/github-readme-stats)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaidaasd00&show_icons=true&theme=radical)
+
 
 
 
