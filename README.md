@@ -1,9 +1,12 @@
-###111
+👋 Hi, I’m Alexey Gaidykov
+👀 I’m interested in iOS development
+🌱 I’m currently learning UIKit, SwiftUI, advanced Swift.
+💞️ I’m looking to collaborate on complex iOS application
+📫 How to reach me: swiftgaidaalex@gmail.com,  http://t.me/gaidaasd
 
-### Hi there 👋
 
-Here![Uploading Icon-App-20x20@1x.png…]()
- are some ideas to get you started:
+
+
 
 <!--
 **gaidaasd00/gaidaasd00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
