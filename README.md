@@ -1,8 +1,8 @@
-👋 Hi, I’m Alexey Gaidykov
-👀 I’m interested in iOS development
-🌱 I’m currently learning UIKit, SwiftUI, advanced Swift.
-💞️ I’m looking to collaborate on complex iOS application
-📫 How to reach me: swiftgaidaalex@gmail.com,  http://t.me/gaidaasd
+- 👋 Hi, I’m Alexey Gaidykov
+- 👀 I’m interested in iOS development
+- 🌱 I’m currently learning UIKit, SwiftUI, advanced Swift.
+- 💞️ I’m looking to collaborate on complex iOS application
+- 📫 How to reach me: swiftgaidaalex@gmail.com,  http://t.me/gaidaasd
 
 
 
