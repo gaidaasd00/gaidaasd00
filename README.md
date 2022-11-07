@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UIKit, SwiftUI, advanced Swift.
 - 💞️ I’m looking to collaborate on complex iOS application.
 - 📫 How to reach me: swiftgaidaalex@gmail.com,  http://t.me/gaidaasd.
-![Swift](https://img.shields.io/badge/-<Swift>-<090909>?style=flat-square&logo=swift)
+- ![Swift](https://img.shields.io/badge/-Swift-<090909>?style=flat-square&logo=swift)
 
 
 
